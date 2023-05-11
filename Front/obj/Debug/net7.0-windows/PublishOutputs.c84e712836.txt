@@ -1,0 +1,5 @@
+C:\Users\lucas.caetano\Downloads\Front\bin\Debug\net7.0-windows\publish\Front.exe
+C:\Users\lucas.caetano\Downloads\Front\bin\Debug\net7.0-windows\publish\Front.dll
+C:\Users\lucas.caetano\Downloads\Front\bin\Debug\net7.0-windows\publish\Front.deps.json
+C:\Users\lucas.caetano\Downloads\Front\bin\Debug\net7.0-windows\publish\Front.runtimeconfig.json
+C:\Users\lucas.caetano\Downloads\Front\bin\Debug\net7.0-windows\publish\Front.pdb
